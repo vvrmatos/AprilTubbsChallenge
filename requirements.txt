@@ -2,3 +2,4 @@ fastapi
 uvicorn
 requests
 python-dotenv
+wemake-python-styleguide==0.19.2
